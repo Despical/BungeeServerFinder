@@ -1,0 +1,5 @@
+# This servers should be in ready
+# state when the server loaded
+servers:
+  - "lobby"
+  - "test1"
